@@ -81,7 +81,7 @@ To run the project, you need the following libraries:
   
 # Installation
 
-1. Clone the repository: `git clone
+1. Clone the repository: git clone
 2. Install required libraries: pip install -r requirements.txt
 3. Run Jupyter Notebook: jupyter notebook
 
